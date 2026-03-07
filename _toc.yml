@@ -5,4 +5,4 @@ format: jb-book
 root: rangkuman_kal
 
 chapters:
-  - file: matriks
+  - file: rangkuman_kal
